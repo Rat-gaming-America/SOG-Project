@@ -1,0 +1,20 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio / IDE
+.vs/
+.idea/
+.vscode/
+*.sln
+*.vcxproj*
+*.suo
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
